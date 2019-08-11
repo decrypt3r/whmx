@@ -1,0 +1,60 @@
+A = Added, M = Modified, D = Deleted
+
+-----------------------------------------------------------------
+1.0.4 - 2016-09-14
+-----------------------------------------------------------------
+
+* Bug Fixed
+| M whm.class.php
+
+* Update Gateways 
+| M adm/app/gateways/index.php
+
+-----------------------------------------------------------------
+1.0.3 - 2016-07-13
+-----------------------------------------------------------------
+
+* Update MOIP (www.moip.com.br)
+| A moip/index.php
+
+* Update Checkout 
+| M checkout.php
+| M invoice-print.php
+
+* Update Gateways 
+| M adm/app/gateways/index.php
+
+-----------------------------------------------------------------
+1.0.2 - 2016-02-13
+-----------------------------------------------------------------
+
+* Update CKEditor 
+| M adm/app/tutorials/new.php
+
+* Update Checkout 
+| M checkout.php
+| M invoice-print.php
+
+* Update Gateways
+| M adm/app/gateways/index.php
+
+* Added MercadoPago 
+| A mp_cancel.php
+| A mp_pending.php
+| A mp_success.php
+| A theme/default/mp_cancel.html
+| A theme/default/mp_pending.html
+| A theme/default/mp_success.html
+
+* Added Skrill
+| M adm/app/gateways/index.php
+| M invoice-print.php
+
+-----------------------------------------------------------------
+1.0.1 - 2016-02-10
+-----------------------------------------------------------------
+
+* Initial release.
+| A changelog.txt
+
+-----------------------------------------------------------------
